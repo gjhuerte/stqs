@@ -1,0 +1,13 @@
+Instructions:
+1.  Register first. Save. Press OK immediately.
+2. If you already created an account, use it to log in.
+3. Create your own Quiz.
+4. For guide in creating a quiz. Open help menu.
+
+Features:
+- Create a quiz using the standard types of Examination.
+- Automated Checking of quiz.
+- Records Score in a csv file. Readable with your SpreadSheet software. 
+- Secured virtual testpaper.
+
+WELCOME TO STUDENTS AND TEACHER QUIZ SIMULATION!!!

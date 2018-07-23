@@ -1,0 +1,61 @@
+0.9.2
+-Multiple Choice bug fixed
+-Open menu item now available
+-Status: Working
+
+ - - Previous Version - -
+
+0.9.1
+-Answer sheet created
+-Fixed save menu
+-Change of item names
+
+0.9.0
+-Multiple Choice change code.
+-added table
+-Change in User Interface of each type
+-added status
+-change of GUI for registration.
+
+0.8.1
+-Multiple Choice choices Button bugs repair.
+-Save filechooser replace open now available.
+
+0.8
+-Help and other options changed.
+-Added register on first open.
+-Identification option stable.
+-Multiple Choice can accept values (buggy).
+
+0.7.1.2
+-Added logo
+-Added Instructions for creating your own testpaper.
+
+0.7.1
+-All options now working (buggy).
+-Save button functioning well.
+-First open instruction.
+
+0.7
+-Multiple Choice now usable (still buggy).
+
+0.6.1
+-help now usable ( no istructions yet ).
+-List of number extends to 100.
+-Identification Option bugs (fixed).
+-Login bugs (fixed).
+-Added choices for multiple choice(buggy).
+
+0.6
+
+-Added login.
+-Secured account edit.
+-Added Change Account Information (buggy).
+-Save menu functioning (buggy).
+
+0.5
+
+-No records yet.
+-Functional.
+-Buggy.
+
